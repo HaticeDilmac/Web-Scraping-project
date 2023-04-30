@@ -1,16 +1,8 @@
-# web_scaping_example_one
+# Web Screping Project
 
-A new Flutter project.
+- It was made in response to the question of how we can add products available from the internet to our application with the web scraping process.
 
-## Getting Started
+- Web scraping işlemi ile internetten var olan ürünleri uygulamamıza nasıl ekleriz sorusuna yanıt olarak yapılmıştır.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1682617961](https://user-images.githubusercontent.com/100489350/235375498-ba2222d4-92db-4ac9-b8de-91f25f809f9e.png)
+![web_screen](https://user-images.githubusercontent.com/100489350/235375503-669eb4ce-c585-4099-8cce-16db107b632b.png)
