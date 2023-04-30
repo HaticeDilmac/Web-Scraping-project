@@ -1,4 +1,4 @@
-# Web Screping Project
+# Web Scrapping Project
 
 - It was made in response to the question of how we can add products available from the internet to our application with the web scraping process.
 
